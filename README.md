@@ -55,7 +55,7 @@
 ## 📫 Connect with Me:
 * **Email:** pancham8256@gmail.com
 * **LinkedIn:** [Pancham Kumar](https://www.linkedin.com/in/pancham-5b1816251)
-* **LeetCode:** [Knight Profile](https://leetcode.com/PanchamKumarr)
+* **LeetCode:** [Knight Profile]()
 
 ---
 <p align="center">
