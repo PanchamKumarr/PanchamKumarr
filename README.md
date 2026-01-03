@@ -52,15 +52,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PanchamKumarr&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanchamKumarr&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect with Me:
 * **Email:** pancham8256@gmail.com
 * **LinkedIn:** [Pancham Kumar](https://www.linkedin.com/in/pancham-5b1816251)
